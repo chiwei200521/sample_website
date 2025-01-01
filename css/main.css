@@ -1,0 +1,40 @@
+.nav-menu a {
+    text-decoration: none;
+}
+
+header {
+    text-align: center;
+    margin: 0 0 80px;
+}
+
+blockquote.quote {
+    padding: 2px 20px;
+    background: lightgrey;
+}
+
+.nav-menu {
+    text-align: right;
+}
+
+.nav-spacing {
+    margin-left: 10px;
+}
+
+.mobydick {
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fafafa;
+}
+
+.mobydick blockquote {
+    font-style: italic; 
+    font-size: 20px;
+}
+
+.mobydick blockquote span {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold; 
+    color:#ff0000;
+}
